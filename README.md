@@ -1,2 +1,2 @@
 # DevRadar
-Aplicação desenvolvida durante a seamana OmniStack
+Aplicação desenvolvida durante a seamana OmniStack - Diego Fernandes
